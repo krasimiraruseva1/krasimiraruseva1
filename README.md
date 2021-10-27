@@ -2,6 +2,12 @@
 <h1 align="center">Hi 👋, I'm Krasimira Ruseva</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
 
+Talking about Personal Stuffs:
+🚀   I’m currently learning HTML5&CSS3 and C++ .
+👨🏻‍💻   Most of my projects are available on Github.
+👾   Fun fact:
+📫   How to reach me: kmruseva20@codingburgas.bg
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/krassimiraruseva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krassimiraruseva" height="30" width="40" /></a>
