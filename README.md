@@ -3,10 +3,10 @@
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
 
 Talking about Personal Stuffs:
-🚀   I’m currently learning HTML5&CSS3 and C++ .
-👨🏻‍💻   Most of my projects are available on Github.
-👾   Fun fact:
-📫   How to reach me: kmruseva20@codingburgas.bg
+🚀   I’m currently learning HTML5&CSS3 and C++ .<br>
+👨🏻‍💻   Most of my projects are available on Github.<br>
+👾   Fun fact:<br>
+📫   How to reach me: kmruseva20@codingburgas.bg<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
