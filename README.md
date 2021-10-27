@@ -5,7 +5,6 @@
 Talking about Personal Stuffs:
 🚀   I’m currently learning HTML5&CSS3 and C++ .<br>
 👨🏻‍💻   Most of my projects are available on Github.<br>
-👾   Fun fact:<br>
 📫   How to reach me: kmruseva20@codingburgas.bg<br>
 
 <h3 align="left">Connect with me:</h3>
