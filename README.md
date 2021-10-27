@@ -1,4 +1,4 @@
-### Hi there 👋<hr></h1>
+### Hi there 👋
 
 <h1>Talking about Personal Stuffs:<h1>
 
